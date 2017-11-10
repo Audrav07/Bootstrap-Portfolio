@@ -1,3 +1,56 @@
+
+button.navbar-toggle{
+  background-color: #ffffff;
+}
+
+
+
+
+
+
+.container-fluid{
+  color:blue;
+}
+
+
+
+
+.navbar-brand{
+  color:#ffffff;
+  float:left;
+}
+
+
+
+.container1 .text-muted {
+  padding-top: 20px;
+}
+
+
+
+.list-group{
+  margin-bottom: 0;
+}
+
+.list-group-item {
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+
+
+
+.btn-default {
+  color: #ffffff;
+  background-color: #777777;
+}
+
+.btn-default:hover {
+  color: #ffffff;
+  background-color: #777777;
+}
+
+
 body{
   background:url("images/grey_sandbag/grey_sandbag.png");
 
@@ -14,9 +67,7 @@ h1 {
   color:#4aaaa5;
 }
 
-button.navbar-toggle{
-  background-color: #ffffff;
-}
+
 
 label{
   color:#555555;
@@ -82,7 +133,7 @@ label{
 
 .navbar-default .navbar-nav .active a {
   color: #ffffff;
-  background-color: #777;
+  background-color: #008080;
 }
 
 .panel-title {
@@ -106,4 +157,5 @@ label{
   color: #ffffff;
   background-color: #777;
 }
+
 
